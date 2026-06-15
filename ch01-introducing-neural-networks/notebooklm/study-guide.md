@@ -1,5 +1,8 @@
 # NotebookLM Study Guide — Chapter 1: Introducing Neural Networks
 
+> 🎧 **Live notebook:** https://notebooklm.google.com/notebook/2fd963a1-d556-4a33-8ef9-2a0b6c0d8943
+> (private to my Google account) · Audio Overview: *"From linear regression to deep learning"*
+
 Use these with the NotebookLM notebook built from `source.md`. They're grouped by how you'd
 use NotebookLM: quick recall, deeper "explain it to me" prompts, an audio-overview brief, and
 astro-specific tie-ins.
