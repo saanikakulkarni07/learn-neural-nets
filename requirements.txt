@@ -1,0 +1,12 @@
+# Core dependencies for working through Neural Networks from Scratch (NNFS)
+# Install locally with:  pip install -r requirements.txt
+# (Google Colab already has numpy/matplotlib; you'll only need `pip install nnfs` there.)
+
+numpy>=1.24
+matplotlib>=3.7
+nnfs>=0.5.1          # the book's helper package (spiral/sine datasets, fixed init)
+jupyter>=1.0         # for running the .ipynb notebooks locally
+
+# Optional, used in a few astro-flavored exercises:
+scikit-learn>=1.3    # train/test split, metrics, toy datasets
+astropy>=6.0         # FITS/units; only needed for the astro bonus exercises
