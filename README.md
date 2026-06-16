@@ -40,7 +40,7 @@ Legend: ⬜ not started · 🟦 in progress · ✅ done
 | # | Chapter | Notes | Exercises | NotebookLM |
 |---|---------|:-----:|:---------:|:----------:|
 | 1 | [Introducing Neural Networks](ch01-introducing-neural-networks/) | ✅ | ✅ | ✅ |
-| 2 | [Coding Our First Neurons](ch02-coding-our-first-neurons/) | ⬜ | ⬜ | ⬜ |
+| 2 | [Coding Our First Neurons](ch02-coding-our-first-neurons/) | ✅ | ✅ | ✅ |
 | 3 | [Adding Layers](ch03-adding-layers/) | ⬜ | ⬜ | ⬜ |
 | 4 | [Activation Functions](ch04-activation-functions/) | ⬜ | ⬜ | ⬜ |
 | 5 | [Calculating Network Error with Loss](ch05-calculating-network-error-with-loss/) | ⬜ | ⬜ | ⬜ |
